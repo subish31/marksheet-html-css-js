@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+p{
+    display:inline;
+    font-weight: bold;
+}
+.logo{
+    height:75px;
+    width: 75px;
+    position:absolute;
+    left:44%;
+
+}
+.qr{
+    height:75px;
+    width:75px;
+    float:right
+}
+.num{
+    color: red;
+}
+.ms{
+    padding: 1%;
+    border: 4px solid orange;
+    width:700px;
+    height:1000px;
+    margin: 5%;
+    position:relative;
+    background-color: beige;
+}
+.sr{
+    position:absolute;
+    top:2%;
+}
+.clg{
+    font-size: 30px;
+    font-weight: bold;
+    position:absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top:11%;
+    left: 4%;
+    color: rgb(227, 89, 30);
+}
+.cont{
+    display:inline-block;
+   text-align: center;
+   position: absolute;
+   font-size: 18px;
+   top: 15%;
+   left:15%;
+}
+.body{
+    position:relative;
+    top:19%;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left:7%;
+}
+td{
+    border: 2px solid rgb(227, 89, 30);
+    padding: 5px;
+}
+th{
+    border: 2px solid rgb(227, 89, 30);
+    padding: 5px;
+    border-left:0cap;
+}
+table span{
+    width: 100%;
+}
+table{
+    width: 100%;
+    border: 2px solid rgb(227, 89, 30);
+    text-align: center;
+    border-collapse: collapse;
+    height:120px;
+}
+input{
+    width: 75%;
+    background-color: beige;
+    border:0px solid beige;
+}
+.tb1{
+    height:400px;
+}
+.tables{
+    position:absolute;
+    top:100%;
+}
+.sign{
+    display: block;
+    text-align: center;
+}
+.footer{
+    position: absolute;
+    top:755px;
+}
+.sign{
+    position:absolute;
+    top:735px;
+    right:2%;
+}
+.ins{
+    position: absolute;
+    top:790px;
+    text-align: center;
+    left:27%;
+}
