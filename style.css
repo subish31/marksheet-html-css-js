@@ -104,16 +104,16 @@ input{
 }
 .footer{
     position: absolute;
-    top:755px;
+    top:900px;
 }
 .sign{
     position:absolute;
-    top:835px;
+    top:935px;
     right:2%;
 }
 .ins{
     position: absolute;
-    top:890px;
+    top:990px;
     text-align: center;
     left:27%;
 }
